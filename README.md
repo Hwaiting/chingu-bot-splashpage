@@ -1,1 +1,2 @@
-# chingu-bot-splashpage
+# 화이팅!  
+chingu-bot-splashpage
