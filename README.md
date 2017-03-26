@@ -1,1 +1,1 @@
-# chingu-slack-bot
+# chingu-bot-splashpage
