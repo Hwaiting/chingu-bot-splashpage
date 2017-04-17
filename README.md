@@ -1,2 +1,2 @@
-# 화이팅!  
-chingu-bot-splashpage
+# slack-bot
+Chingu project
