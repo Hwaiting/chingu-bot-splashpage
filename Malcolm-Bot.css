@@ -1,18 +1,9 @@
-h1 {
-	font-family: 'Exo 2', sans-serif;
-	color: white;
+html{
+    box-sizing: border-box;
 }
 
-#tag {
- font-family: 'Roboto Slab', serif;
- color: white;
-}
-
-#header {
-	color: white;
-	margin-right: -50px;
-	width: 100%;
-	padding-right: 50px;
+*, *:before, *:after {
+  box-sizing: border-box;
 }
 
 body {
@@ -33,10 +24,20 @@ a:hover {
 	font-size: 16.5px;
 }
 
+h1 {
+	font-family: 'Exo 2', sans-serif;
+	color: white;
+}
+
+
 h4 {
 	color: black;
 	float: right;
 	margin: 10px 25px 5px 25px;
+}
+
+.clear {
+    clear: both;
 }
 
 .button {
@@ -56,9 +57,18 @@ h4 {
 	font-size: 16.5px;
 }
 
-.clear {
-    clear: both;
+#tag {
+ font-family: 'Roboto Slab', serif;
+ color: white;
 }
+
+#header {
+	color: white;
+	margin-right: -50px;
+	width: 100%;
+	padding-right: 50px;
+}
+
 
 #top-div {
 	position: relative;
